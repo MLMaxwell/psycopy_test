@@ -1,0 +1,6 @@
+item,target,distractor,image
+1,desk,chair,practice/pt_desk_REL.png
+2,jug,jug,practice/pt_jug_NEU.png
+3,rabbit,phone,practice/pt_rabbit_UNREL.png
+4,sweater,sweater,practice/pt_sweater_NEU.png
+5,sword,sword,practice/pt_sword_ID.png
